@@ -13,5 +13,8 @@
 #define SEA_URCHIN_ERROR_ITEM_IS_OUT_OF_BOUNDS          10
 #define SEA_URCHIN_ERROR_STREAM_IS_NULL                 11
 #define SEA_URCHIN_ERROR_FUNCTION_IS_NULL               12
+#define SEA_URCHIN_ERROR_VALUE_ALREADY_EXISTS           13
+#define SEA_URCHIN_ERROR_VALUE_NOT_FOUND                14
+#define SEA_URCHIN_ERROR_ITEM_NOT_FOUND                 15
 
 #endif /* _SEA_URCHIN_SEA_URCHIN_H_ */
