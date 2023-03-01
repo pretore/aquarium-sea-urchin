@@ -16,5 +16,6 @@
 #define SEA_URCHIN_ERROR_VALUE_ALREADY_EXISTS           13
 #define SEA_URCHIN_ERROR_VALUE_NOT_FOUND                14
 #define SEA_URCHIN_ERROR_ITEM_NOT_FOUND                 15
+#define SEA_URCHIN_ERROR_KEY_IS_NULL                    16
 
 #endif /* _SEA_URCHIN_SEA_URCHIN_H_ */
