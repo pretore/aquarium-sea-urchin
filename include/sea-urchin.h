@@ -17,5 +17,11 @@
 #define SEA_URCHIN_ERROR_VALUE_NOT_FOUND                14
 #define SEA_URCHIN_ERROR_ITEM_NOT_FOUND                 15
 #define SEA_URCHIN_ERROR_KEY_IS_NULL                    16
+#define SEA_URCHIN_ERROR_VALUE_IS_INVALID               17
+#define SEA_URCHIN_ERROR_VALUE_IS_TOO_LARGE             18
+#define SEA_URCHIN_ERROR_VALUE_IS_NEGATIVE              19
+#define SEA_URCHIN_ERROR_RESULT_IS_INCONSISTENT         20
+#define SEA_URCHIN_ERROR_RESULT_IS_UNCHANGED            21
+#define SEA_URCHIN_ERROR_DIVIDE_BY_ZERO                 22
 
 #endif /* _SEA_URCHIN_SEA_URCHIN_H_ */
