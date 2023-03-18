@@ -24,5 +24,6 @@
 #define SEA_URCHIN_ERROR_RESULT_IS_UNCHANGED            21
 #define SEA_URCHIN_ERROR_DIVIDE_BY_ZERO                 22
 #define SEA_URCHIN_ERROR_VALUE_IS_ZERO                  23
+#define SEA_URCHIN_ERROR_KEY_IS_TOO_LARGE               24
 
 #endif /* _SEA_URCHIN_SEA_URCHIN_H_ */
