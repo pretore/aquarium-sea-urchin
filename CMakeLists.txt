@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(aquarium-sea-urchin VERSION 1.5.2
+project(aquarium-sea-urchin VERSION 1.5.1
         LANGUAGES C
         DESCRIPTION "Error codes for aquarium libraries")
 
